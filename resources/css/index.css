@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+
+header h1 {
+    color: chartreuse;
+    text-align: center;
+}
+
+table, th, td {
+    border: 2px solid dodgerblue;
+    border-collapse: collapse;
+}
+
+th {
+    color: greenyellow;
+    font-size: 1.5em;
+    font-family: cursive;
+    background-color: darkblue;
+}
+
+/*
+td {
+    color: limegreen;
+}
+*/
+
+.tag {
+    width: 7%;
+}
+
+.name {
+    width: 17%;
+}
+
+.zero {
+    background-color: steelblue;
+}
+
+.one, .three, .five {
+    background-color: white;
+    color: black;
+}
+
+.two, .four, .six {
+    color: white;
+}
